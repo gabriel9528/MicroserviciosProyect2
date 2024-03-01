@@ -1,6 +1,6 @@
 spring:
   application:
-    name: customerService
+    name: registryService
   cloud:
     config:
       uri: http://localhost:8081
