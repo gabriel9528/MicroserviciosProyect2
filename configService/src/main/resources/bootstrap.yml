@@ -7,7 +7,7 @@ spring:
       server:
         git:
           uri: https://github.com/gabriel9528/MicroserviciosProyect2
-          searchPath: configData
+          searchPaths: configData
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
   security:

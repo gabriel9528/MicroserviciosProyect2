@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7b85311-2ae0-49ba-bf8a-a9f6ca00dc70" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/configService.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/src/main/java/com/microservicios1/configService/ConfigServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/src/main/resources/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/configService/src/test/java/com/microservicios1/configService/ConfigServiceApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +55,19 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pathVariables",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <envs>
+        <env name="GIT_USER" value="gabrielferv95@gmail.com" />
+        <env name="GIT_PASSWORD" value="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" />
+      </envs>
       <module name="configService.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservicios1.configService.ConfigServiceApplication" />
       <method v="2">
@@ -103,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709263074597</updated>
-      <workItem from="1709263077011" duration="338000" />
+      <workItem from="1709263077011" duration="1101000" />
     </task>
     <servers />
   </component>
