@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7b85311-2ae0-49ba-bf8a-a9f6ca00dc70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../shoppingService/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customerService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../customerService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customerService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../customerService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoppingService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../shoppingService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoppingService/src/main/resources/application.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +54,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build configService.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ConfigServiceApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/gabriel/Desktop/codigoTecsup/microservices/microservices/customerService",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,8 +80,8 @@
   <component name="RunManager">
     <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <envs>
-        <env name="GIT_USER" value="gabrielferv95@gmail.com" />
         <env name="GIT_PASSWORD" value="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" />
+        <env name="GIT_USER" value="gabrielferv95@gmail.com" />
       </envs>
       <module name="configService.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservicios1.configService.ConfigServiceApplication" />
@@ -92,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709263074597</updated>
-      <workItem from="1709263077011" duration="1101000" />
+      <workItem from="1709263077011" duration="4268000" />
     </task>
     <servers />
   </component>
