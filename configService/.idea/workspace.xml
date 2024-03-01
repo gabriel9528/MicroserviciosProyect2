@@ -6,10 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e7b85311-2ae0-49ba-bf8a-a9f6ca00dc70" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customerService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../customerService/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customerService/src/main/java/com/microservicios1/customerService/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../customerService/src/main/java/com/microservicios1/customerService/CustomerServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customerService/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../customerService/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../registryService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../registryService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../productService/src/main/java/com/microservicios1/productService/ProductService2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../productService/src/main/java/com/microservicios1/productService/ProductService2Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoppingService/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../shoppingService/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shoppingService/src/main/java/com/microservicios1/shoppingService/ShoppingServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shoppingService/src/main/java/com/microservicios1/shoppingService/ShoppingServiceApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709263074597</updated>
-      <workItem from="1709263077011" duration="4869000" />
+      <workItem from="1709263077011" duration="5662000" />
     </task>
     <servers />
   </component>
