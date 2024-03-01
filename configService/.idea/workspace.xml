@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d561681b-75ae-49fa-8ca0-5dc65f786305" name="Changes" comment="" />
+    <list default="true" id="e202008c-d16f-42e9-8eff-f2437c97b2e7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
+    <projectState path="$PROJECT_DIR$/configService">
       <ProjectState />
     </projectState>
   </component>
@@ -37,7 +39,7 @@
   "customColor": "",
   "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2d4HdBUCptvGGV5oQcs9wpkI2js" />
+  <component name="ProjectId" id="2d4LjpyMTeWsadn5N8tXZJ9BrbB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,12 +48,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "configServer",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -62,7 +60,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="configService.main" />
+      <module name="configService.configService.main~1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservicios1.configService.ConfigServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,12 +79,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d561681b-75ae-49fa-8ca0-5dc65f786305" name="Changes" comment="" />
-      <created>1709260517044</created>
+      <changelist id="e202008c-d16f-42e9-8eff-f2437c97b2e7" name="Changes" comment="" />
+      <created>1709262543565</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709260517044</updated>
-      <workItem from="1709260519474" duration="900000" />
+      <updated>1709262543565</updated>
+      <workItem from="1709262545491" duration="246000" />
     </task>
     <servers />
   </component>
