@@ -4,8 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e202008c-d16f-42e9-8eff-f2437c97b2e7" name="Changes" comment="">
+    <list default="true" id="e7b85311-2ae0-49ba-bf8a-a9f6ca00dc70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/configService.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/src/main/java/com/microservicios1/configService/ConfigServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configService/src/test/java/com/microservicios1/configService/ConfigServiceApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +28,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/configService">
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
@@ -39,7 +54,7 @@
   "customColor": "",
   "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2d4LjpyMTeWsadn5N8tXZJ9BrbB" />
+  <component name="ProjectId" id="2d4Moj197mmdAsMcrOGLoTGgF3D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,6 +65,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -60,7 +79,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="ConfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="configService.configService.main~1" />
+      <module name="configService.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservicios1.configService.ConfigServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,12 +98,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e202008c-d16f-42e9-8eff-f2437c97b2e7" name="Changes" comment="" />
-      <created>1709262543565</created>
+      <changelist id="e7b85311-2ae0-49ba-bf8a-a9f6ca00dc70" name="Changes" comment="" />
+      <created>1709263074597</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709262543565</updated>
-      <workItem from="1709262545491" duration="246000" />
+      <updated>1709263074597</updated>
+      <workItem from="1709263077011" duration="338000" />
     </task>
     <servers />
   </component>
